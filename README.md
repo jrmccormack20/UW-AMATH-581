@@ -28,3 +28,7 @@ Survey of practical numerical solution techniques for ordinary and partial diffe
 ## Homework assignments:
 
 ## Final Project:
+    * Solve the Bose-Einstein Condensation problem (Gross-Pitaevskii equations) in 3D and write a report on your
+    investigation and the numerical approach. Include your best visualization of the 3D solutions.
+    * For Graduate Students: Suggest and thoroughly discuss other 3D problems that could be solved using a similar
+    numerical approach (i.e. include pseudo code) and visualization methods.
