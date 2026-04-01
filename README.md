@@ -6,7 +6,7 @@ Survey of practical numerical solution techniques for ordinary and partial diffe
 ## Course Scope:
 1. Solution Methods for Differential Equations:
     * Initial value problems
-    * Euler method, 2nd- and 4th-order Runge-Kutta, Adams-Bashford
+    * Euler method, 2nd- and 4th-order Runge-Kutta, Multi-step methods
     * Stability
     * Boundary value problems: shooting and direct methods
  
@@ -19,21 +19,15 @@ Survey of practical numerical solution techniques for ordinary and partial diffe
     * The Fast-Fourier transform (FFT)
     * Chebychev (and other) transform
     * Time and Space Stepping routines
-    * ~~Numerical filtering algorithms~~
- 
-4. Brief intro in Finite Element Methods
-
 
 ## Homework assignments:
 
 1. Solving 1st and 2nd order ODEs
 2. Solving BVPs with shooting and direct methods
-3. Setup Laplacian and 1st Partial Derivative Matrices
+3. Setup Laplacian and 1st Partial Derivative Matrices - code not included
 4. Solve PDE with Finite Difference and Semi-Spectral methods
-5. Solve PDE with FFT and CHebychev Spectral methods
+5. Solve PDE with FFT and Chebychev Spectral methods
 
 ## Final Project:
     * Solve the Bose-Einstein Condensation problem (Gross-Pitaevskii equations) in 3D and write a report on your
     investigation and the numerical approach. Include your best visualization of the 3D solutions.
-    * For Graduate Students: Suggest and thoroughly discuss other 3D problems that could be solved using a similar
-    numerical approach (i.e. include pseudo code) and visualization methods.
